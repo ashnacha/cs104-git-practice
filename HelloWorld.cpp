@@ -1,6 +1,6 @@
 # include <iostream>
 
-int main()
+int main() 
 {
-	cout << "FightOn!" << endl;
+  std::cout << "HelloWorld!" << std::endl;
 }
